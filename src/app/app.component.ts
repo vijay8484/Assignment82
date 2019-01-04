@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Assignment81';
+
+  public Message;
+
+  public Message1='message from Parent Component';
+
 }
